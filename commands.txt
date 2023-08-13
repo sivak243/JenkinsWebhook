@@ -8,7 +8,7 @@ docker run -it hello-docker:latest  # -it  -- interactive mode for displaying th
 pusing the docker image to Docker Hub
 
 docker login              # enter valid user name and password
-docker images             # Cross check wheter hello-docker image was created or not
+docker images             # Cross check wheter hello-docker image was created or not.
 docker tag hello-docker:latest sivak243/test2023
 docker push sivak243/test2023
 

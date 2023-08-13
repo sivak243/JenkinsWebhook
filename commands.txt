@@ -1,6 +1,6 @@
 docker build -t hello-docker .
 docker images                       # Verifications
-docker run -it hello-docker:latest  # -it  -- interactive mode for displaying the console output.
+docker run -it hello-docker:latest  # -it  -- interactive mode for displaying the console. output.
 
 
 
